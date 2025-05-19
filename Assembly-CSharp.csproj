@@ -61,6 +61,7 @@
   <ItemGroup>
     <Compile Include="Assets\Controladores\ControladorPuntaje.cs" />
     <Compile Include="Assets\Controladores\ControladorBoton.cs" />
+    <Compile Include="Assets\Controladores\ControladorMenu.cs" />
     <Compile Include="Assets\Controladores\ControladorAro.cs" />
     <Compile Include="Assets\Controladores\ControladorPersonaje.cs" />
   </ItemGroup>
